@@ -1,0 +1,11 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "QAP1-Task1",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ellen Dalton",
+  "license": "ISC"
+}

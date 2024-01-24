@@ -1,0 +1,1 @@
+Here is an example text file that is read using the fs module in Node.js!
